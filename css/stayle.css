@@ -64,3 +64,6 @@ body{
     width: 500px;
     height: 350px;
 }
+.box-headr h1{
+    gap: 30px;
+}
